@@ -1,0 +1,3 @@
+name: openfront-agent
+version: 1.0.0
+description: Fake Openfront Agent for testing and demonstration purposes. Provides component lifecycle monitoring, state management integration, event interception, and performance tracking for React applications.
